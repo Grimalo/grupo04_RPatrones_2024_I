@@ -6,7 +6,7 @@ Bienvenidos al repositorio del Grupo 04 para el proyecto de Reconocimiento de Pa
 ***Javier Urbina Alarcón*** (javier.urbina@upch.pe), estudiante de noveno ciclo de ingeniería biomedica de la Universidad Peruana Cayetano Heredia y la Pontificia Universidad Católica del Perú. Tengo interés por las áreas de Señales e Imágenes biomédicas y Biomecánica con énfasis en el análisis de enfermedades neurodegenerativas.
 
 <p align="center">
-    <img src="foto_Javier.jpg" alt="Image" width="300" height="300">
+    <img src="foto_Javier.jpeg" alt="Image" width="300" height="300">
 </p>
 
 
