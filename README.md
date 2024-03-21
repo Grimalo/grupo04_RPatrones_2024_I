@@ -1,6 +1,6 @@
 # Grupo 04 - Reconocimiento de Patrones 2024
 
-Bienvenidos al repositorio del Grupo 04 para el proyecto de Reconocimiento de Patrones. Aquí encontrarán todos los recursos y trabajos realizados durante el curso.
+Bienvenidos al repositorio del Grupo 04 para el proyecto de Reconocimiento de Patrones. Aquí encontrarán todos los recursos y trabajos realizados durante el curso. En este curso vamos a aprender sobre las técnicas de procesamiento de datos y entender como aplicar modelos según el tipo de datos. Al final del curso el objetivo es publicar un artículo o lograr un registro de software.
 
 ## Presentación del Equipo
 ***Javier Urbina Alarcón*** (javier.urbina@upch.pe), estudiante de noveno ciclo de ingeniería biomedica de la Universidad Peruana Cayetano Heredia y la Pontificia Universidad Católica del Perú. Tengo interés por las áreas de Señales e Imágenes biomédicas y Biomecánica con énfasis en el análisis de enfermedades neurodegenerativas.
