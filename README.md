@@ -16,6 +16,10 @@ Estudiante de ingeniería Biomédica de noveno ciclo en la Universidad Peruana C
     <img src="Foto_Diego.jpg" alt="Image" width="300" height="300">
 </p>
 
+***Claudia Camacho Grimaldi (claudia.camacho@upch.pe)***
+Estudiante de Ingeniería Biomédica de Noveno noveno ciclo de ingeniería biomedica de la Universidad Peruana Cayetano Heredia y la Pontificia Universidad Católica del Perú. Tengo inclinación por Ingeniería Clínica y Señales e Imágenes.
+
+
 ## Proyecto de Curso
 ### Descripción del Proyecto
 (Descripción detallada del proyecto)
