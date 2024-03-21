@@ -3,7 +3,10 @@
 Bienvenidos al repositorio del Grupo 04 para el proyecto de Reconocimiento de Patrones. Aquí encontrarán todos los recursos y trabajos realizados durante el curso.
 
 ## Presentación del Equipo
-(Aquí puedes agregar una breve descripción de cada miembro del equipo y sus fotos)
+
+
+#Diego Segur Contreras:
+Estudiante de ingeniería Biomédica, del 9no ciclo.
 
 ## Proyecto de Curso
 ### Descripción del Proyecto
