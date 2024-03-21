@@ -10,8 +10,11 @@ Bienvenidos al repositorio del Grupo 04 para el proyecto de Reconocimiento de Pa
 </p>
 
 
-#Diego Segur Contreras:
-Estudiante de ingeniería Biomédica, del 9no ciclo.
+***Diego Segur Contreras  (diego.segura.c@upch.pe):***
+Estudiante de ingeniería Biomédica de noveno ciclo en la Universidad Peruana Cayetano Heredia y la Pontificia Universidad Católica del Perú. Tengo interés por las áreas de Ingeniería Clínca y Señales e Imágenes biomédicas, con enfasis en Elastografía de Surface acoustic waves.
+<p align="center">
+    <img src="foto_Diego.jpeg" alt="Image" width="300" height="300">
+</p>
 
 ## Proyecto de Curso
 ### Descripción del Proyecto
