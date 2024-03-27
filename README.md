@@ -45,3 +45,7 @@ La capacidad de estos modelos para ser entrenados y validados en múltiples fuen
 * Validación del modelo: Evaluar el rendimiento del modelo usando métricas de evaluación adecuadas.
 * Optimización del modelo: Ajustar los hiperparámetros del modelo y realizar mejoras en el algoritmo para mejorar su precisión y generalización.
 
+### Bibliografía
+[1] AlSaeed, D.; Omar, S.F. Brain MRI Analysis for Alzheimer’s Disease Diagnosis Using CNN-Based Feature Extraction and Machine Learning. Sensors 2022, 22, 2911. https://doi.org/10.3390/s22082911
+[2] El-Latif, A.A.A.; Chelloug, S.A.; Alabdulhafith, M.; Hammad, M. Accurate Detection of Alzheimer’s Disease Using Lightweight Deep Learning Model on MRI Data. Diagnostics 2023, 13, 1216. https://doi.org/10.3390/diagnostics13071216
+[3] Diogo, V.S., Ferreira, H.A., Prata, D. et al. Early diagnosis of Alzheimer’s disease using machine learning: a multi-diagnostic, generalizable approach. Alz Res Therapy 14, 107 (2022). https://doi.org/10.1186/s13195-022-01047-y 
